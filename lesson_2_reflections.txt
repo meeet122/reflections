@@ -11,7 +11,9 @@ organized? How would branches help?
 branches would help when I need to have different versions of the same project running differently. 
 it will help me by doing so easily
 
-
+How do the diagrams help you visualize the branch structure?
+Diagrams helps to visualize the commits and branches so we can figure out if there is any unreachable
+commits.
 
 
 
