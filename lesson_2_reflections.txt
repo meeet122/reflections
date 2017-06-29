@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+when I initialize git repo, .git is created where the metadata is stored and then you can treat that folder as a repo, we need to do it to commit.
+
