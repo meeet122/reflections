@@ -7,4 +7,8 @@ Git automatically stay up-to-date with your remote repository?
 Because sometimes You would not want to pull from the github, i.e you
 get more control if the you have freedom of syncinng files when you want to.
 
-
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+Fork: when you wana copy others repo from github and acknowledge that
+clone: when you want to make a copy of a repo into local machine
+branch: when you want to make different version of the code
